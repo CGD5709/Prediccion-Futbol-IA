@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Datos masivos (¡Prohibido subir los CSV al repo!)
+data/*
+
+# Pero forzamos a Git a que SÍ rastree los archivos .gitkeep
+!data/**/.gitkeep
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

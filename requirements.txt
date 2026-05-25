@@ -1,0 +1,11 @@
+# Análisis y manipulación de datos
+pandas
+numpy
+
+# Machine Learning y métricas
+scikit-learn
+
+
+
+# Entorno de ejecución de cuadernos en VS Code
+ipykernel
