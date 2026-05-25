@@ -3,11 +3,10 @@ venv/
 env/
 .env
 
-# Datos masivos (¡Prohibido subir los CSV al repo!)
+# Datos masivos
 data/*
 
-# Pero forzamos a Git a que SÍ rastree los archivos .gitkeep
-!data/**/.gitkeep
+
 
 # Archivos temporales de Jupyter y Python
 .ipynb_checkpoints/
