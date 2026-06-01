@@ -1,9 +1,13 @@
 # Análisis y manipulación de datos
 pandas
 numpy
+seaborn
 
 # Machine Learning y métricas
 scikit-learn
+xgboost
+imbalanced-learn
+lightgbm
 
 
 
